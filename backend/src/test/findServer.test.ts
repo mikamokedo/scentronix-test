@@ -1,4 +1,4 @@
-import { findServer } from "../index";
+import { findServer } from "../utils/findServer";
 import axios from "axios";
 
 jest.mock("axios");
